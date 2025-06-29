@@ -1,0 +1,14 @@
+[
+	{
+		"Name": "Mama",
+		"Cycle": 59,
+		"Bases": ["Base6", "Base64"],
+		"StudentsCount": 46
+	},
+	{
+		"Name": "Mama",
+		"Cycle": 6,
+		"Bases": ["6Base6"],
+		"StudentsCount": 66
+	}
+]
